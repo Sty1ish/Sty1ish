@@ -1,16 +1,27 @@
-### Hi there 👋
+### About ME
 
-<!--
-**Sty1ish/Sty1ish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Kyonggi univ 17's 🏫 (2017.03 ~ )
+ - Applied Statistics
 
-Here are some ideas to get you started:
+- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2021.07 ~ )
+ - BioStatistics (project -> https://github.com/GGoYoungHee/R-Shiny-IMa3_dashboard)
+ - Statistical Machine Learning
+ - Multiple Testing Procedure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal Archive Blog -> https://blog.naver.com/stylish1379  (Shy....)
+
+### language
+
+- Python
+- R
+
+### Awards
+
+- Maybe...
+
+### license
+
+- 사회조사분석사 2급
+- ADSP
+- 컴퓨터활용능력 1급
+- 빅데이터실무활용능력1급
