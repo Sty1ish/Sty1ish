@@ -13,7 +13,7 @@
 ### language
 
 - Python
-- R
+- R (+ R Shiny)
 
 ### Awards
 
@@ -22,6 +22,6 @@
 ### license
 
 - 사회조사분석사 2급
-- ADSP
 - 컴퓨터활용능력 1급
 - 빅데이터실무활용능력1급
+- ADSP
