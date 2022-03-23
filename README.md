@@ -8,7 +8,7 @@
 	- Statistical Machine Learning
 	- Multiple Testing Procedure
 
-- Personal Archive Blog -> https://blog.naver.com/stylish1379  (Shy....)
+- Personal Archive Blog -> https://blog.naver.com/stylish1379
 
 ### language
 
