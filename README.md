@@ -10,9 +10,11 @@
 
 - Personal Archive Blog -> https://blog.naver.com/stylish1379
 
+- 데이터 청년 캠퍼스 수료
+
 ### language
 
-- Python
+- Python (+ machine learning, tensorflow)
 - R (+ R Shiny)
 
 ### Awards
