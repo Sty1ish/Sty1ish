@@ -19,6 +19,7 @@
 
 ### Awards
 
+- In-school data analysis contest 1st
 - Maybe...
 
 ### license
