@@ -16,6 +16,7 @@
 
 - Python (+ machine learning, tensorflow)
 - R (+ R Shiny)
+- SQL (mySQL, mongoDB) (little bit...)
 
 ### Awards
 
