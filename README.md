@@ -10,7 +10,7 @@
 
 - Personal Archive Blog -> https://blog.naver.com/stylish1379
 
-- 데이터 청년 캠퍼스 수료
+- Completion of '데이터 청년 캠퍼스'
 
 ### language
 
@@ -21,7 +21,7 @@
 ### Awards
 
 - In-school data analysis contest 1st
-- Maybe...
+- Maybe...more
 
 ### license
 
