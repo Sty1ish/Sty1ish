@@ -21,7 +21,7 @@
 ### Awards
 
 - In-school data analysis contest 1st
-- Maybe...more
+- 데이터 청년 캠퍼스 경기대 대상 / 종합 ...
 
 ### license
 
