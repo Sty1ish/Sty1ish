@@ -17,7 +17,7 @@
 ### language
 
 - Tableau
-- Python (+ machine learning, tensorflow)
+- Python (+ preprocessing, machine learning, tensorflow)
 - R (+ R Shiny)
 - SQL [mySQL(+MariaDB), mongoDB]
 - SPARK (junior - ml, preprocessing only. can't Build a system)
