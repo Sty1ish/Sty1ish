@@ -19,7 +19,7 @@
 - Tableau
 - Python (+ preprocessing, machine learning, tensorflow)
 - R (+ R Shiny)
-- SQL [mySQL(+MariaDB), mongoDB]
+- SQL [mySQL, MariaDB, mongoDB]
 - SPARK (junior - ml, preprocessing only. can't Build a system)
 
 ### Awards
