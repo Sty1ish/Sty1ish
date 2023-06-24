@@ -12,7 +12,9 @@
 
 - Completion of '데이터 청년 캠퍼스'
 
-- quantum-ai data annotation intern
+- quantum-ai data annotation intern (23.01 ~ 02)
+  
+- (NOW) 2bytes Corp Data Analyst (23.05 ~ )
 
 ### language
 
