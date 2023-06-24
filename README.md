@@ -16,13 +16,14 @@
   
 - (NOW) 2bytes Corp Data Analyst (23.05 ~ )
 
-### language
+### Stack
 
 - Tableau
 - Python (+ preprocessing, machine learning, tensorflow)
 - R (+ R Shiny)
 - SQL [mySQL, MariaDB, mongoDB]
 - SPARK (junior - ml, preprocessing only. can't Build a system)
+- product improvement (PM)
 
 ### Awards
 
