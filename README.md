@@ -18,11 +18,11 @@
 
 ### Stack
 
-- Tableau
-- Python (+ preprocessing, machine learning, tensorflow)
+- BI : Tableau / Redash / Superset
+- Python (+ preprocessing, machine learning, tensorflow, SlackBot)
 - R (+ R Shiny)
-- SQL [mySQL, MariaDB, mongoDB]
-- SPARK (junior - ml, preprocessing only. can't Build a system)
+- SQL [RDB : mySQL, MariaDB / NOSQL : mongoDB, CouchDB]
+- SPARK (junior - ml, preprocessing only)
 - product improvement (PM)
 
 ### Awards
