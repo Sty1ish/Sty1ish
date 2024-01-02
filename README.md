@@ -23,9 +23,10 @@
 - BI : Tableau / Redash / Superset
 - Python (+ preprocessing, machine learning, tensorflow, SlackBot)
 - R (+ R Shiny)
-- SQL [RDB : mySQL, MariaDB / NOSQL : mongoDB, CouchDB]
-- SPARK (junior - ml, preprocessing only)
+- SQL [RDB : mySQL, MariaDB, PostageDB / NOSQL : mongoDB, CouchDB]
+- Junior Level : SPARK (ml, preprocessing only), C# (LINQ, Build API), Linux (CronTab, Upload Job, file manage)
 - product improvement (PM)
+- SLACK, JIRA
 
 ### Awards
 
@@ -39,3 +40,4 @@
 - 빅데이터실무활용능력1급
 - ADSP
 - SQLD
+- GA4
