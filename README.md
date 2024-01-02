@@ -25,8 +25,7 @@
 - R (+ R Shiny)
 - SQL [RDB : mySQL, MariaDB, PostageDB / NOSQL : mongoDB, CouchDB]
 - Junior Level : SPARK (ml, preprocessing only), C# (LINQ, Build API), Linux (CronTab, Upload Job, file manage)
-- product improvement (PM)
-- SLACK, JIRA
+- product improvement (PM) : SLACK, JIRA
 
 ### Awards
 
