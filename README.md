@@ -16,7 +16,7 @@
   
 - 2bytes Corp Data Analyst (23.05 ~ 23.12)
 
-- \[NEXTORIAL] Nexon Data Analyst (24.01 ~ )
+- Nexon Data Analyst (24.01 ~ 24.07)
 
 ### Stack
 
