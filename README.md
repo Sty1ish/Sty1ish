@@ -20,7 +20,7 @@
 
 - Tripwithu Co-founder (Dev) (25.07 ~ 26.03)
 
-- 아정당 strategic planning (DX + DA) (26.08 ~ now)
+- 아정당 strategic planning (DX + DA + DE) (26.08 ~ now)
 
 ### Stack
 
