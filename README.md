@@ -18,6 +18,10 @@
 
 - Nexon Data Analyst (24.01 ~ 24.07)
 
+- Tripwithu Co-founder (Dev) (25.07 ~ 26.03)
+
+- 아정당 strategic planning (DX + DA) (26.08 ~ now)
+
 ### Stack
 
 - BI : Tableau / Redash / Superset
